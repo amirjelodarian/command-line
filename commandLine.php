@@ -72,7 +72,7 @@
 			});
 		}
 	</script>
-</head>
+</head> 
 <body onload="null_textarea();">
 	<div class="back">
 		<form action="<?php echo $_SERVER['PHP_SELF']; ?>" id="form" method="post">
